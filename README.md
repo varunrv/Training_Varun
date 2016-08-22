@@ -1,3 +1,7 @@
+Academic_Project:
+Part of code, containing conversion of a video into images(frames) and storing into hadoop
+
+
 # Training_Varun
 Code of problems, dealed in training
 
